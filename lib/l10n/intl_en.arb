@@ -1,0 +1,15 @@
+{
+  "uppercaseLetters": "Uppercase letters",
+  "lowercaseLetters": "Lowercase letters",
+  "numbers": "Numbers",
+  "specialSymbols": "Special symbols",
+  "generate": "Generate",
+  "saved": "Saved",
+  "editPassword": "Edit password",
+  "name": "name",
+  "password": "password",
+  "cancel": "Cancel",
+  "save": "Save",
+  "untitled": "Untitled",
+  "enterANameForThePassword": "Enter a name for the password"
+}

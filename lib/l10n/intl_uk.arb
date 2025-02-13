@@ -1,0 +1,15 @@
+{
+  "uppercaseLetters": "Великі літери",
+  "lowercaseLetters": "Маленькі літери",
+  "numbers": "Цифри",
+  "specialSymbols": "Спеціальні символи",
+  "generate": "Генерація",
+  "saved": "Збережені",
+  "editPassword": "Редагувати пароль",
+  "name": "назва",
+  "password": "пароль",
+  "cancel": "Скасувати",
+  "save": "Зберегти",
+  "untitled": "Без назви",
+  "enterANameForThePassword": "Введіть назву для пароля"
+}
